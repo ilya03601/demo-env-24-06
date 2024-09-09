@@ -4,7 +4,6 @@
   "description": "Demo Env Project",
   "main": "index.js",
   "scripts": {
-    "dev": "npx -y node-static src",
     "lint": "npx eslint .",
     "lint:fix": "npx eslint . --fix",
     "prepare": "husky",
